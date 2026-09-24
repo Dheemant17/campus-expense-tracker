@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
 
-# Campus Expense Tracker - CLI project for the GDG recruitment challenge
-# Basic idea: log your daily spending, save it, then get a summary back.
-# Wrote this in plain Python (no pip installs needed) since that's what I know so far.
-
-import json
 import os
 from datetime import date
 
